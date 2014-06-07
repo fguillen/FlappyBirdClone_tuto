@@ -1,0 +1,10 @@
+{
+  "name": "game1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~1.10.2",
+    "phaser": "~2.0.4"
+  },
+  "devDependencies": {}
+}
